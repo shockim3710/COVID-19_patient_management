@@ -1,0 +1,126 @@
+﻿  CPMS.c
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(369,11): warning C4102: 'deafult': 참조되지 않은 레이블입니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(613,35): warning C4267: '=': 'size_t'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(619,43): warning C4267: '=': 'size_t'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(590,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(595,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(599,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(944,37): warning C4267: '=': 'size_t'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(945,45): warning C4267: '=': 'size_t'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(918,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(922,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(927,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(1141,37): warning C4267: '=': 'size_t'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(1142,44): warning C4267: '=': 'size_t'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(1115,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(1119,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(1124,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(1334,41): warning C4267: '=': 'size_t'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(1312,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(1317,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(1321,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(1657,49): warning C4267: '=': 'size_t'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(1658,57): warning C4267: '=': 'size_t'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(1556,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(1631,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(1635,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(1640,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(1944,49): warning C4267: '=': 'size_t'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(1945,57): warning C4267: '=': 'size_t'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(1843,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(1918,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(1922,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(1927,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(2127,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(2131,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(2135,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(2492,9): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(2500,36): warning C4267: '=': 'size_t'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(2501,32): warning C4267: '=': 'size_t'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(2502,34): warning C4267: '=': 'size_t'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(2503,42): warning C4267: '=': 'size_t'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(2456,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(2460,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(2464,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(2468,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(2472,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(2855,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [3]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(3161,39): warning C4267: '=': 'size_t'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(3072,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [3]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(3321,37): warning C4267: '=': 'size_t'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(3326,29): warning C4267: '=': 'size_t'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(3331,31): warning C4267: '=': 'size_t'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(3265,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(3269,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(3273,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(3277,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(3281,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(3287,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(3291,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(3295,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(3299,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(3303,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(3710,1): warning C4005: 'PAGE_NUM': 매크로 재정의
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(3257): message : 'PAGE_NUM'의 이전 정의를 참조하십시오.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(3778,30): warning C4267: '=': 'size_t'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(3781,40): warning C4267: '=': 'size_t'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(3788,36): warning C4267: '=': 'size_t'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(3793,38): warning C4267: '=': 'size_t'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(3718,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(3722,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(3726,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(3730,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(3734,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(3740,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(3744,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(3748,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(3752,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(3756,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(3760,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(4231,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(4452,1): warning C4005: 'PAGE_NUM': 매크로 재정의
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(3710): message : 'PAGE_NUM'의 이전 정의를 참조하십시오.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(4461,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(4465,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(4701,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(4705,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(4940,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(5207,23): warning C4477: 'sprintf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'varchar *'입니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(5211,23): warning C4477: 'sprintf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'varchar *'입니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(5156,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(5160,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(5164,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(5168,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(5174,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(5178,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(5186,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(5528,33): warning C4267: '=': 'size_t'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(5815,17): warning C4133: '함수': 'VARCHAR [50]'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(5819,57): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'VARCHAR *'입니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(5819,99): warning C4133: '함수': 'VARCHAR [50]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(5822,15): warning C4133: '함수': 'VARCHAR [50]'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(5826,55): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'VARCHAR *'입니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(5826,91): warning C4133: '함수': 'VARCHAR [50]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(5829,16): warning C4133: '함수': 'VARCHAR [50]'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(5833,56): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'VARCHAR *'입니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(5833,95): warning C4133: '함수': 'VARCHAR [50]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(5855,20): warning C4133: '함수': 'VARCHAR [55]'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(5859,60): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'VARCHAR *'입니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(5859,111): warning C4133: '함수': 'VARCHAR [55]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(5861,34): warning C4267: '=': 'size_t'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(5862,30): warning C4267: '=': 'size_t'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(5863,32): warning C4267: '=': 'size_t'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(5864,40): warning C4267: '=': 'size_t'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(5865,30): warning C4267: '=': 'size_t'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(5866,30): warning C4267: '=': 'size_t'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(5482,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(5486,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(5490,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(5494,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(5501,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(5505,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(5814,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(5821,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(5828,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\CPMS.c(5854,1): warning C4047: '초기화 중': 'unsigned short'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+  Team6_DB_Project.vcxproj -> C:\Users\rlarl\Desktop\6조-강경빈-김기태-김승후-안대현\VC프로젝트\Team6_DB_Project\Debug\Team6_DB_Project.exe
