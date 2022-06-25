@@ -1,4 +1,4 @@
-# 코로나 환자 관리 프로그램 - 3 분반 6 조
+# 코로나 환자 관리 프로그램 - 3분반 6조
 
 ![image](https://user-images.githubusercontent.com/60650967/175775137-4bf498fa-0700-4494-b1a0-c36b75527826.png)
 
