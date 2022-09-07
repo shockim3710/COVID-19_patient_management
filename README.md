@@ -55,7 +55,7 @@
   
   
 　  
-## Application Analysis
+## Requirements Specification
 * 코로나 환자 관리 프로그램은 주된 기능은 총 4개로 로그인, 환자 관리, 병실 관리, 직원 계정 및 부서 관리로 구성된다.
 ![image](https://user-images.githubusercontent.com/60650967/175775456-35def75f-e490-4b75-b86a-221a730faaba.png)
   
